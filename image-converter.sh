@@ -3,7 +3,7 @@
 # ============================================================================
 # Universal Image Converter for Dolphin
 #
-# Autor:        Ney Designer (com assistência de IA)
+# Autor:        chiefmodoc
 # Versão:       3.0 (Edição de Máxima Confiabilidade: remove a barra de progresso
 #               para contornar bugs do kdialog em alguns sistemas)
 # Dependência:  ffmpeg, kdialog
